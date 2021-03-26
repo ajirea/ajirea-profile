@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="ShapeAppearanceOverlay.DifferentCornerSize.50Percent">
+        <item name="cornerSize">50%</item>
+    </style>
+    
+    <style name="Title">
+        <item name="android:textSize">@dimen/text24</item>
+        <item name="android:fontFamily">@font/source_sans_pro_semibold</item>
+        <item name="android:color">@color/black_t80</item>
+    </style>
+
+    <style name="SubTitle">
+        <item name="android:fontFamily">@font/source_sans_pro_semibold</item>
+        <item name="android:textSize">@dimen/text16</item>
+        <item name="android:color">@color/black_t80</item>
+    </style>
+
+    <style name="TextBase">
+        <item name="android:fontFamily">@font/source_sans_pro</item>
+        <item name="android:textSize">@dimen/text14</item>
+        <item name="android:color">@color/black_t60</item>
+    </style>
+</resources>

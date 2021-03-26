@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Ajirea Profile</string>
+    <string name="name">Satria Aji Putra</string>
+    <string name="nim">10118068</string>
+    <string name="kelas">IF2/S1/VI</string>
+    <string name="kelamin">Laki-laki</string>
+    <string name="goldar">Laki-laki</string>
+    <string name="makkes">Dodongkal</string>
+    <string name="fifav">Rembulan Tenggelam di Wajahmu</string>
+    <string name="lafav">Titip Rindu Buat Ayah - Ebiet G. Ade</string>
+    <string name="pekerjaan">Entrepreneur</string>
+    <string name="hobi">Iqro</string>
+    <string name="alamat">Salakopi 002/011, Kab. Sukabumi, Jawa Barat</string>
+    <string name="ttl">Sukabumi, 22 Juli 1999</string>
+
+    <!-- Labels -->
+    <string name="label_kelamin">Jenis Kelamin</string>
+    <string name="label_goldar">Golongan Darah</string>
+    <string name="label_hobi">Hobi</string>
+    <string name="label_ttl">Tempat, Tanggal Lahir</string>
+    <string name="label_alamat">Alamat</string>
+    <string name="label_pekerjaan">Pekerjaan yang Diinginkan</string>
+    <string name="label_filfav">Film Favorit</string>
+    <string name="label_lafav">Lagu Favorit</string>
+    <string name="label_makkes">Makanan Kesukaan</string>
+
+
+</resources>
