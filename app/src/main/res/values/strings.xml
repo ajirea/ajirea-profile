@@ -4,8 +4,9 @@
     <string name="nim">10118068</string>
     <string name="kelas">IF2/S1/VI</string>
     <string name="kelamin">Laki-laki</string>
-    <string name="goldar">Laki-laki</string>
+    <string name="goldar">A</string>
     <string name="makkes">Dodongkal</string>
+    <string name="mikes">Kopi</string>
     <string name="fifav">Rembulan Tenggelam di Wajahmu</string>
     <string name="lafav">Titip Rindu Buat Ayah - Ebiet G. Ade</string>
     <string name="pekerjaan">Entrepreneur</string>
@@ -23,6 +24,7 @@
     <string name="label_filfav">Film Favorit</string>
     <string name="label_lafav">Lagu Favorit</string>
     <string name="label_makkes">Makanan Kesukaan</string>
+    <string name="label_mikes">Minuman Kesukaan</string>
 
 
 </resources>
