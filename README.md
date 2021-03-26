@@ -3,4 +3,4 @@
 First App Project - AKB (Aplikasi Komputasi Bergerak)
 
 
-![screenshot.png](screenshot.png "Screenshot Ajiea Profile")
+![screenshot.jpg](screenshot.jpg "Screenshot Ajiea Profile")
